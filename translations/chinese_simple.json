@@ -1,0 +1,30 @@
+{
+//该翻译补丁经检查没有任何问题。
+  "DialogueDictionary": {
+    //SLATE_Info.xml
+    "Slate": "斯雷特",
+    "Hey, hold up a sec!": "嘿，等一下！",
+    "Yeah yeah yeah, I already know about the location marker in my ship.": "好好好，我早就知道我飞船里那个定位标记的事儿了。",
+    "What? No, I was going to tell you that Hornfelds found something intresting at the raido tower: a rouge planet! You should check it out.": "啥？不是的，我是想告诉你霍恩费斯在无线电塔那边发现了件有意思的东西：一颗流浪行星！你真该去看看。",
+    "I've already been to it! Turns out its an invisable, artifical ring-world built by a speices before the Nomai!": "我早就去过那儿了！结果发现那是一个隐形的人工环世界，是挪麦人之前的某个种族建造的！",
+    "Did you finally stomach some sap wine? No, this is an icy wasteland far out of the bounds of the Outer Wilds.": "你终于还是喝了点树液酒？才不是呢，这地方是一片冰封荒原，远在星际拓荒星系的边界之外。",
+    "So it is a new planet then? Why do you want me to go there?": "这么说那真是颗新行星？你为啥想让我去那儿？",
+    "All the others are busy exploring this solar system right now so it might be fun for you to explore something new. Just start flying out I'm sure you could find it.": "其他人现在都忙着探索这个太阳系呢，所以对你来说探索点新东西应该会挺有意思的。只管往外飞就好，我相信你能找到的。",
+    "Sounds like a plan!": "听着就靠谱！",
+    "Just be carful though. The planet is quite far out and we wont be able to communicate with you. I'm not sure even the Nomai could reach you out there. Its about 3 hours away but communication would be lost in just about ten minutes of flight.": "不过可得小心点。这颗行星远得很，我们跟你没法通讯。我觉得就连挪麦人都不确定能和那边的你取得联系。飞过去大概要3小时，但飞行才刚过十分钟，通讯就会彻底中断。"
+  },
+
+  "ShipLogDictionary": {
+    //FR.xml
+    "Eye Call Mural": "唤眼壁画",
+    "I found a mural depicting a new species (that I will name the Hermets) Hearing a strange noise from above the ice.": "我发现了一幅壁画，描绘了一个新的种族（我将其命名为赫梅特人）听见冰层上方传来奇怪声响的画面。",
+    "Drill Mural": "钻探壁画",
+    "I found a mural depicting the Hermets drilling to break the ice above.": "我发现了一幅壁画，描绘了赫梅特人钻探冰层、想要冲破上方坚冰的画面。",
+    "The Million Eyes Mural": "万眼壁画",
+    "I found a mural depicting the Hermets looking up at the stars for the first time and worshiping them.": "我发现了一幅壁画，描绘了赫梅特人第一次仰望群星并对其顶礼膜拜的画面。",
+    "Eye Call Fade Mural": "唤眼消逝壁画",
+    "I found a mural depicting the Hermets becomeing fearful at the signal disapering.": "我发现了一幅壁画，描绘了赫梅特人因信号消失而陷入恐惧的画面。",
+    "Spaceship Mural": "星际飞船壁画",
+    "I found a mural depicting the Hermets building a ship to fly to where the singal was comming from.": "我发现了一幅壁画，描绘了赫梅特人建造飞船，想要飞向信号传来之地的画面。"
+  }
+}
